@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalProj_03_NFC_loginPasswordStorage</string>
+    <string name="login">Login</string>
+    <string name="save_to_nfc">Save to NFC</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="login_to_view_passwords">Login to View Passwords</string>
+</resources>
